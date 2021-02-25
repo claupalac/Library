@@ -1,0 +1,6 @@
+/Users/claudio/Documents/Rider Projects/LibrarySolution/Library/bin/Debug/Library.exe
+/Users/claudio/Documents/Rider Projects/LibrarySolution/Library/bin/Debug/Library.pdb
+/Users/claudio/Documents/Rider Projects/LibrarySolution/Library/obj/Debug/Library.csprojAssemblyReference.cache
+/Users/claudio/Documents/Rider Projects/LibrarySolution/Library/obj/Debug/Library.csproj.CoreCompileInputs.cache
+/Users/claudio/Documents/Rider Projects/LibrarySolution/Library/obj/Debug/Library.exe
+/Users/claudio/Documents/Rider Projects/LibrarySolution/Library/obj/Debug/Library.pdb

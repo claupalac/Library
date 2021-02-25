@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5c88eb28_002D71bb_002D409a_002D8e04_002Dafddde6ef6ae/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SortBooks_WithListContainingFiveBooks_ShouldReturnListSortedAscendant" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::43151745-330E-473A-AE1D-A86D377A22B5::.NETFramework,Version=v4.8::LibraryTests.LibraryTest.SortBooks_WithListContainingOddBooks_ShouldReturnListSortedAscendant&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::43151745-330E-473A-AE1D-A86D377A22B5::.NETFramework,Version=v4.8::LibraryTests.BinarySearchTest.Search_WithListContainingTheSearchedValue_ShouldReturnSearchedValue&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::43151745-330E-473A-AE1D-A86D377A22B5::.NETFramework,Version=v4.8::LibraryTests.BinarySearchTest.SearchIndex_WithListContainingTheSearchedValue_ShouldReturnIndexSearchedValue&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::43151745-330E-473A-AE1D-A86D377A22B5::.NETFramework,Version=v4.8::LibraryTests.LibraryTest.SearchBooks_WithListContainingEvenBooks_ShouldReturnListWithTwoBooks&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::43151745-330E-473A-AE1D-A86D377A22B5::.NETFramework,Version=v4.8::LibraryTests.ComparatorStartsWithTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::43151745-330E-473A-AE1D-A86D377A22B5::.NETFramework,Version=v4.8::LibraryTests.BinarySearchTest.Search_WithSearchedValueStartingWith_ShouldReturnSearchedValue&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::43151745-330E-473A-AE1D-A86D377A22B5::.NETFramework,Version=v4.8::LibraryTests.BinarySearchTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::43151745-330E-473A-AE1D-A86D377A22B5::.NETFramework,Version=v4.8::LibraryTests.LibraryTest.SearchBooks_WithListNotContainingTheSearchedValue_ShouldReturnEmptyList&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::43151745-330E-473A-AE1D-A86D377A22B5::.NETFramework,Version=v4.8::LibraryTests.LibraryTest.SortBooks_WithEmptyFavoriteList_ShouldReturnListOfBooksSortedAscendant&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
